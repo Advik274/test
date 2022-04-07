@@ -18,8 +18,6 @@ const DIALOGS: ILevelDialog[] = [
 			'Who is the best guy in the world?',
 		answers: [
 			'blndar',
-			'blndr',
-			'blandar',
 			'adu',
 			'advik',
 			'yes',
