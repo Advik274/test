@@ -11,7 +11,7 @@ const DIALOGS: ILevelDialog[] = [
 	{
 		question: 'What is your name?',
 		answers: ['blandariya', 'sana', 'utshu'],
-		hint: '(?) This game is only for my blandariya...'
+		hint: '(?) This game is only for my blandariya...👻'
 	},
 	{
 		question:
@@ -22,10 +22,10 @@ const DIALOGS: ILevelDialog[] = [
 			'advik',
 			'yes',
 		],
-		hint: '(?) Come on, your blandar is not the perfect!?'
+		hint: 'Come on, your blandar is not the perfect!? 🤔🤗'
 	},
 	{
-		question: 'How many gifts do you want my lovie?',
+		question: 'How many gifts do you want my lovie? 😘',
 		answers: [],
 		type: 'number'
 	}
