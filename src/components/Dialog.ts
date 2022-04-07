@@ -17,12 +17,12 @@ const DIALOGS: ILevelDialog[] = [
 		question:
 			'Who is the best guy in the world?',
 		answers: [
-			'blndar',
+			'blandar',
 			'adu',
 			'advik',
 			'yes',
 		],
-		hint: '(?) Come on, your blndar is not the perfect!?'
+		hint: '(?) Come on, your blandar is not the perfect!?'
 	},
 	{
 		question: 'How many gifts do you want my lovie?',
