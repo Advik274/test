@@ -1,12 +1,12 @@
 {
-	"name": "happy-birthday-orly",
+	"name": "happy-birthday-utsha",
 	"version": "1.0.0",
-	"description": "Simple HTML5 game created for the birthday of my beloved girlfriend Orly.",
-	"author": "alexeychikk",
+	"description": "A Simple HTML5 game created for my Utshu.",
+	"author": "Arnav",
 	"main": "src/game.ts",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/alexeychikk/z-spell.git"
+		"url": "https://happy-birthday-utsha.netlify.app/"
 	},
 	"scripts": {
 		"start": "webpack-dev-server --config webpack/webpack.dev.js",
